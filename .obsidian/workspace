@@ -1,0 +1,104 @@
+{
+  "main": {
+    "id": "64d741bc83e3b88e",
+    "type": "split",
+    "children": [
+      {
+        "id": "74ea3fc7a5a3f4e4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "dailybugle.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "520b8974c35b9630",
+    "type": "split",
+    "children": [
+      {
+        "id": "9bbc110b3818f89c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21e12704b23466a3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 205
+  },
+  "right": {
+    "id": "6d6be930891a56ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "980fee85fc321911",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd672c7bb109b6f9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "dailybugle.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6452c28f10cd4d4d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "CVE-2021-40",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "74ea3fc7a5a3f4e4",
+  "lastOpenFiles": [
+    "Agent T.md",
+    "GamingServer.md",
+    "Untitled.md",
+    "Annie.md",
+    "revshell.md",
+    "rootme.md",
+    "Source.md",
+    "gtfobins.md",
+    "Madness.md",
+    "CyberHeroes.md"
+  ]
+}

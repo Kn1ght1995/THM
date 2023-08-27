@@ -1,0 +1,37 @@
+{
+  "collapse-filter": false,
+  "search": "-path:Templates",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "revshell",
+      "color": {
+        "a": 1,
+        "rgb": 5426144
+      }
+    },
+    {
+      "query": "gtfobins",
+      "color": {
+        "a": 1,
+        "rgb": 10292038
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 0.844303797468354,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.835443037974684,
+  "repelStrength": 10,
+  "linkStrength": 0.405063291139241,
+  "linkDistance": 455,
+  "scale": 0.9832824654259213,
+  "close": true
+}

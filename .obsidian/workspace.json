@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "920e2bf2ca777183",
+        "id": "81547c5d15b929fc",
         "type": "tabs",
         "children": [
           {
-            "id": "3a14bd9017dbc015",
+            "id": "896fde0df557d471",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -50,7 +50,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 634.5
+    "width": 341.5
   },
   "right": {
     "id": "6d6be930891a56ec",
@@ -96,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 251.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -108,13 +109,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "21e12704b23466a3",
+  "active": "896fde0df557d471",
   "lastOpenFiles": [
+    "dailybugle.md",
+    "revshell.md",
+    "gtfobins.md",
     "images/Pasted image 20230527101422.png",
     "Pasted image 20230527101422.ng.md",
     "[revshell.md",
     "Agent T.md",
-    "gtfobins.md",
     "Brooklyn99.md",
     "images/Pasted image 20230827144040.png",
     "ValleyPE.md",

@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "81547c5d15b929fc",
+        "id": "52626bf4db4ab82d",
         "type": "tabs",
         "children": [
           {
-            "id": "896fde0df557d471",
+            "id": "3339dc54cfd24248",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mother's_Secret.md",
+                "file": "Empline.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "3db7279a0f141230",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mother's_Secret.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -67,7 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.5
+    "width": 354.5
   },
   "right": {
     "id": "6d6be930891a56ec",
@@ -83,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mother's_Secret.md",
+                "file": "Empline.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,21 +114,27 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "3db7279a0f141230",
+  "active": "3339dc54cfd24248",
   "lastOpenFiles": [
-    "Madness.md",
+    "images/Pasted image 20230917202816.png",
+    "images/Pasted image 20230917194920.png",
+    "images/Pasted image 20230917194820.png",
+    "images/Pasted image 20230917194727.png",
+    "images/Pasted image 20230917192320.png",
+    "Agent T.md",
+    "Empline.md",
     "Mother's_Secret.md",
+    "Brooklyn99.md",
+    "gtfobins.md",
+    "Madness.md",
     "LazyAdmin.md",
     "biteme.md",
     "Untitled 1.md",
     "dailybugle.md",
     "revshell.md",
-    "gtfobins.md",
     "images/Pasted image 20230527101422.png",
     "Pasted image 20230527101422.ng.md",
     "[revshell.md",
-    "Agent T.md",
-    "Brooklyn99.md",
     "images/Pasted image 20230827144040.png",
     "ValleyPE.md",
     "Untitled.md",

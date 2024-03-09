@@ -11,8 +11,12 @@
             "id": "96958d9707e11ccb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CherryBlossom.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -66,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CherryBlossom.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -111,6 +116,11 @@
   },
   "active": "96958d9707e11ccb",
   "lastOpenFiles": [
+    "Willow.md",
+    "CherryBlossom.md",
+    "Untitled 1.md",
+    "images/Pasted image 20240309105044.png",
+    "images/Pasted image 20240309103208.png",
     "IDE.md",
     "Empline.md",
     "images/Pasted image 20230917202816.png",
@@ -125,7 +135,6 @@
     "Madness.md",
     "LazyAdmin.md",
     "biteme.md",
-    "Untitled 1.md",
     "dailybugle.md",
     "revshell.md",
     "images/Pasted image 20230527101422.png",
@@ -133,18 +142,14 @@
     "[revshell.md",
     "images/Pasted image 20230827144040.png",
     "ValleyPE.md",
-    "Untitled.md",
     "test.md",
     "images/Pasted image 20230527103252.png",
-    "images/Pasted image 20230527101456.png",
-    "images/Pasted image 20230527100548.png",
     "Pasted image 20230201182830.png]![[Pasted image 20230201182853.png.md",
     "JoyStick.md",
     "CyberHeroes.md",
     "ALL_in_one.md",
     "skynet.md",
     "Biblioeca.md",
-    "h4ck3d.md",
-    "gallery.md"
+    "h4ck3d.md"
   ]
 }

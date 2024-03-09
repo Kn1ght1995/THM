@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "52626bf4db4ab82d",
+        "id": "2c0fda9854353f2c",
         "type": "tabs",
         "children": [
           {
-            "id": "3339dc54cfd24248",
+            "id": "96958d9707e11ccb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IDE.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -70,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IDE.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -114,8 +109,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "3339dc54cfd24248",
+  "active": "96958d9707e11ccb",
   "lastOpenFiles": [
+    "IDE.md",
     "Empline.md",
     "images/Pasted image 20230917202816.png",
     "images/Pasted image 20230917194920.png",
@@ -146,7 +142,6 @@
     "JoyStick.md",
     "CyberHeroes.md",
     "ALL_in_one.md",
-    "IDE.md",
     "skynet.md",
     "Biblioeca.md",
     "h4ck3d.md",
